@@ -1,4 +1,2 @@
-```
-For those who don't know what the frick is this, this is basically my dataset and flat-type databse for my application and APIs.
-Thank you.
-```
+Fᴏʀ ᴛʜᴏsᴇ ᴡʜᴏ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴡʜᴀᴛ ᴛʜᴇ ꜰʀɪᴄᴋ ɪs ᴛʜɪs, ᴛʜɪs ɪs ʙᴀsɪᴄᴀʟʟʏ ᴍʏ ᴅᴀᴛᴀsᴇᴛ ᴀɴᴅ ꜰʟᴀᴛ-ᴛʏᴘᴇ ᴅᴀᴛᴀʙsᴇ ꜰᴏʀ ᴍʏ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴀɴᴅ APIs.
+Tʜᴀɴᴋ ʏᴏᴜ.
